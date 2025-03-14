@@ -2,11 +2,16 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18561052&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-    - Repoaitory: This is the storage location of all the files or folders including any changes made to them by collaborators.
+    - Repository: This is the storage location of all the files or folders including any changes made to them by collaborators.
+
     - Commit: A commit is a screenshot of changes made to the files/folders and has a description of the change made to keep the developers in sync of any changes being made to the file.
+
     - Branch: This is a copy of the main project, that allows the developers to work on different parts of the project without affecting the main project (branch)
+
     - Merge: Merging then combines different changes from diferent branches once the developers are certain that their new changes work well.
+
     - Conflict: A conflict ocurs when two collaborators work on the same part of  a file in different branches and try to merge. They will have to fix it manually.
+    
     - Pull: When there are multiple collaborators, a pull request is used to suggest a merge between two branches. Once the change has been reviewed by the rest of the team, will it then be merged with the main branch/project.
 
     - GitHub is popular for version control because it combines Git with a platform for collaboration and allows collaborators to work remotely, change code through branches and allow review contributions via pull requests.
